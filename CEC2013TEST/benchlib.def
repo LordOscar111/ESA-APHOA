@@ -1,0 +1,8 @@
+LIBRARY benchlib
+EXPORTS
+benchlibInitialize
+benchlibInitializeWithHandlers
+benchlibTerminate
+benchlibPrintStackTrace
+mlxBenchmark_func
+
