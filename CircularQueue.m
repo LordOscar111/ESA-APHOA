@@ -1,4 +1,4 @@
-%% Initializing the circular queue
+% Initializing the circular queue
 function queue = CircularQueue(capacity,dim) 
     %Record individual information
     queue.Popsition = zeros(capacity,dim); 
