@@ -25,7 +25,7 @@ sample_rate=0.1;   % The proportion of exchanged individuals
 sample_num=sample_rate*pop_num;
 average_bigin_pop_cost=Gbest.Cost;
 
-%% Calculate population performance
+% Calculate population performance
 flag=0;
 evalute_gap=20;
 best_f=Gbest.Cost;
