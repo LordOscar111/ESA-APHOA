@@ -1,6 +1,6 @@
 function highLevelHeuristic(record_cores_imfor,mode,core_num,level_elit_solution,max_gen,save_queue,pop_num,funcid,t_time)
 
-% mode = struct('level_num',h, ...                                                % Record the information of towel model 
+% mode = struct('level_num',h, ...                                                % Record the information of tower model 
 %     'best_f',inf, ...                                                           % Record best solution performance
 %     'learn_number',learn_number,...                                             % Learning period
 %     'best_p',zeros(1,dim), ...                                                  % Record best solution
