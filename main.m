@@ -53,7 +53,7 @@ for funcid = f_start:f_end
     for t_time = 1:nl
         tic;   % Timer
 
-        % Initiate the towel model
+        % Initiate the tower model
         [mode,level_elit_solution,record_cores_imfor,save_queue]=mode_initiation(funcid,d,num_cores,llh_num,pop_num);
 
         spmd
